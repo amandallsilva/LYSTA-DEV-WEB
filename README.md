@@ -1,4 +1,4 @@
-# LYSTA - Sistema de Locação de Eventos  
+# LYSTA - Sistema de Locação de Espaços de Eventos  
 **Autores:** Amanda Silva e Francisco Martins  
 
 ---
