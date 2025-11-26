@@ -23,19 +23,12 @@ Desenvolver um sistema web completo para modernizar a procura e gestão de espa�
 
 ### **Backend**
 - **Node.js + Express.js** — API web leve e simples  
-- **EJS (Engine de Templates)** — páginas dinâmicas sem framework pesado  
-- **Nodemailer** — envio de e-mails de confirmação e redefinição de senha  
-- **bcrypt.js** — criptografia de senhas  
-- **dotenv** — variáveis de ambiente  
 
 ### **Banco de Dados**
 - **MySQL** — armazenamento de usuários, locais, reservas, avaliações e pagamentos  
 
 ### **Ferramentas Complementares**
-- **SweetAlert2** — alertas e modais modernos  
-- **Leaflet.js** — mapas simples e gratuitos  
-- **Multer** — upload de fotos  
-- **Axios/Fetch** — requisições assíncronas no frontend  
+ 
 
 ---
 
