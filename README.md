@@ -90,7 +90,3 @@ Modelagem baseada no diagrama de classes fornecido:
 
 O script inicial ficará dentro de `/database/schema.sql`.
 
----
-
-## 🗂 Estrutura de Pastas Sugerida  
-
