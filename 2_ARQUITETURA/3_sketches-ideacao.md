@@ -1,4 +1,4 @@
-## 🧩 Primeira Ideação — Rabiscos Iniciais do Protótipo Mobile
+## 🧩 Primeira Ideação — Rabiscos Iniciais do Protótipo 
 
 Esta é a primeira versão dos rabiscos (sketches) do protótipo mobile do sistema **LYSTA**, representando nossa fase inicial de ideação antes de avançarmos para os wireframes de maior fidelidade.
 
