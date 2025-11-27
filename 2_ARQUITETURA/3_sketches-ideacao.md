@@ -1,6 +1,6 @@
 ## 🧩 Primeira Ideação — Rabiscos Iniciais do Protótipo 
 
-Esta é a primeira versão dos rabiscos (sketches) do protótipo mobile do sistema **LYSTA**, representando nossa fase inicial de ideação antes de avançarmos para os wireframes de maior fidelidade.
+Esta é a primeira versão dos rabiscos (sketches) do protótipo do sistema **LYSTA**, representando nossa fase inicial de ideação antes de avançarmos para os wireframes de maior fidelidade.
 
 Os desenhos abaixo representam apenas a **estrutura geral** das telas principais e servem como base conceitual para compreender o fluxo inicial do usuário dentro do sistema. Nesta etapa, o objetivo não é definir design final, cores, ícones ou tipografia, mas sim organizar visualmente:
 
